@@ -31,7 +31,7 @@ This is simple WebRTC Exmaple project for iOS written in Swift.
 
 # Usage
 
-- Firstly, run the signaling server as folows.
+- Firstly, run the signaling server as follows.
   - `cd SimpleWebRTCExample_iOS/SignalingServer`
   - `node server.js`
     node.js server will start at 8080 port.
